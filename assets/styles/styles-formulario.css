@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(1, 60, 97);
+    color: rgb(127, 41, 41);
+    font-family: ;
+}
+
+h1 {
+    color: rgb(130, 175, 193);
+}
+.Adoptante{
+    background-color: rgb(175, 214, 229);
+    padding: 10px;
+}
+
+.Adoptado{
+    background-color: rgb(215, 244, 252);
+    padding: 10px;
+}
